@@ -1,0 +1,35 @@
+html {
+    background-color:#db24ce;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color:#d700f8;
+    width: 900px;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 20px 20px 20px 20px;
+}
+
+h1 {
+    margin: 50;
+    padding: 20px 0;
+    font-size: 65px;
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.em{
+    font-style: italic;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.xedout{
+    text-decoration: line-through;
+}
