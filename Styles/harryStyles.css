@@ -1,36 +1,42 @@
 html {
     background-color:#db24ce;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
+    font-family: Quicksand, lato, nunito, sans-serif;
     background-color:#d700f8;
-    width: 900px;
+    width: 800px;
     margin: 0 auto;
-    border: 2px solid black;
-    padding: 20px 20px 20px 20px;
 }
 
-h1 {
-    font-family: Quicksand;
-    margin: 50;
-    padding: 20px 0;
-    font-size: 65px;
+h1, h2 {
+    margin:auto;
+    padding: 30px 0;
+    font-size: 45px;
     text-align: center;
 }
 
-.bold {
-    font-weight: bold;
+p{
+    border: blanchedalmond solid 5px;
+    padding: 20px 20px;
+    margin: 20px 80px;
+    line-height: 35px;
+    position: relative;
+    text-align: center;
 }
 
-.em{
-    font-style: italic;
+.center{
+    text-align: center;
 }
 
-.underline{
-    text-decoration: underline;
+li{
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 1.3px;
+    float: left;
 }
 
-.xedout{
-    text-decoration: line-through;
+img{
+    display: block;
+    margin: 0 auto;
 }
